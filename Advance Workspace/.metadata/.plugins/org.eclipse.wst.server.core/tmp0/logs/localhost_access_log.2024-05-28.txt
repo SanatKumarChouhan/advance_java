@@ -1,0 +1,16 @@
+127.0.0.1 - - [28/May/2024:23:35:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:35:55 +0530] "GET /dynamic-web-project/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:35:55 +0530] "GET /dynamic-web-project/LoginView.jsp HTTP/1.1" 200 836
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:35:56 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:12 +0530] "POST /dynamic-web-project/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:12 +0530] "GET /dynamic-web-project/Welcome.jsp HTTP/1.1" 200 525
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:21 +0530] "GET /dynamic-web-project/UserListCtl.do HTTP/1.1" 200 4534
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:33 +0530] "POST /dynamic-web-project/UserListCtl.do HTTP/1.1" 200 4534
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:36 +0530] "POST /dynamic-web-project/UserListCtl.do HTTP/1.1" 200 3289
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:38 +0530] "POST /dynamic-web-project/UserListCtl.do HTTP/1.1" 200 4534
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:36:39 +0530] "POST /dynamic-web-project/UserListCtl.do HTTP/1.1" 200 4534
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:37:30 +0530] "POST /dynamic-web-project/UserListCtl.do HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:37:30 +0530] "GET /dynamic-web-project/UserCtl.do HTTP/1.1" 200 1404
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:37:36 +0530] "GET /dynamic-web-project/UserListCtl.do HTTP/1.1" 200 4534
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:37:48 +0530] "GET /dynamic-web-project/UserCtl.do?id=1 HTTP/1.1" 200 1485
+0:0:0:0:0:0:0:1 - - [28/May/2024:23:37:59 +0530] "POST /dynamic-web-project/UserCtl.do HTTP/1.1" 200 1454

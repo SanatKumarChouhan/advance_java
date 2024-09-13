@@ -1,0 +1,4 @@
+127.0.0.1 - - [27/Jul/2024:16:23:06 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:16:23:07 +0530] "GET /dynamic-web-project/ HTTP/1.1" 200 188
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:16:23:10 +0530] "GET /dynamic-web-project/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Jul/2024:16:23:10 +0530] "GET /dynamic-web-project/LoginView.jsp HTTP/1.1" 200 836

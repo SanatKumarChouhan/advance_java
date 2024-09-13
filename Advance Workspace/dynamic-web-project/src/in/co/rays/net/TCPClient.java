@@ -1,0 +1,26 @@
+package in.co.rays.net;
+
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.net.Socket;
+
+public class TCPClient {
+	
+	public static void main(String[] args) throws Exception {
+		
+		Socket client = new Socket("localhost", 1234);
+		
+		DataOutputStream out=new DataOutputStream(client.getOutputStream());
+		
+		out.writeBytes("hello server\n");
+		
+		DataInputStream in=new DataInputStream(client.getInputStream());
+		
+		String line=in.readLine();
+		
+		System.out.println(line);
+		
+		client.close();
+		
+	}
+}

@@ -1,0 +1,22 @@
+
+Apr 30, 2024 13:38:00.64 NEW SESSION
+Apr 30, 2024 13:38:00.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 30, 2024 13:38:40.67 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 30, 2024 14:33:58.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 30, 2024 14:37:56.85 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 30, 2024 14:40:56.42 [22096:25360:0430/144056.421:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 30, 2024 14:41:13.23 [22096:25360:0430/144113.232:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 30, 2024 14:42:01.65 [22096:25360:0430/144201.657:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2024 14:42:16.23 [22096:25360:0430/144216.236:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 30, 2024 15:01:53.92 [22096:13288:0430/150153.922:ERROR:device_event_log_impl.cc(195)] [15:01:53.918] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 30, 2024 15:01:53.93 [22096:13288:0430/150153.936:ERROR:device_event_log_impl.cc(195)] [15:01:53.930] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 30, 2024 15:01:54.77 [22096:13288:0430/150154.762:ERROR:device_event_log_impl.cc(195)] [15:01:54.759] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 30, 2024 15:02:19.63 [22096:25360:0430/150219.638:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2024 15:23:45.40 [22096:25360:0430/152345.407:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Apr 30, 2024 15:23:45.46 [22096:13288:0430/152345.447:ERROR:device_event_log_impl.cc(195)] [15:23:45.447] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 30, 2024 15:27:13.40 [22096:25360:0430/152713.403:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 30, 2024 16:21:16.73 [22096:25360:0430/162116.736:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 30, 2024 16:28:22.03 [22096:25360:0430/162822.035:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 24, 2024 12:37:29.69 NEW SESSION
+May 24, 2024 12:37:29.69 Created TensorFlow Lite XNNPACK delegate for CPU.

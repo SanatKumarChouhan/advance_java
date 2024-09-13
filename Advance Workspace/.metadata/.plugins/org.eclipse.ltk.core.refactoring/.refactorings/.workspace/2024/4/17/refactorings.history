@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;dynamic_web_project&apos; to &apos;dynamic-web-project&apos;" description="Rename resource &apos;dynamic_web_project&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/dynamic_web_project" name="dynamic-web-project" stamp="1714035397647" updateReferences="true"/>
+</session>
